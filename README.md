@@ -55,8 +55,8 @@ php artisan key:generate
 ### Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/pokedex-learning-project.git
-cd pokedex-learning-project
+git clone https://github.com/andersonaraf/pokemon-vue3.git
+cd pokemon-vue3
 ```
 
 ### Running the Project
